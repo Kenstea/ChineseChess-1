@@ -1,4 +1,4 @@
-ChineseChess
+ChineseChess - Chưa hoàn thiện
 ============
 
 Game cờ tướng với 2 người chơi
